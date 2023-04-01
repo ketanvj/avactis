@@ -27,7 +27,6 @@ public class FramesTest {
 
 	@BeforeMethod
 	public static void setUp() {
-//		System.setProperty("webdriver.chrome.driver", "test\\resources\\Chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("http://www.cookbook.seleniumacademy.com/Frames.html");
 	}
