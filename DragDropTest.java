@@ -15,8 +15,8 @@ public class DragDropTest {
 	
 	private WebDriver driver;
 	private StringBuffer verificationErrors = new StringBuffer();
-	
-	@BeforeMethod
+	//Below is Configuration method which should always be executed. 
+	@BeforeMethod (alwaysRun=true)
 	public void setUp()
 	{
 		driver = new FirefoxDriver();
