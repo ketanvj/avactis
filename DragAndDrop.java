@@ -24,7 +24,7 @@ public class DragDropTest {
 
 	@Test
 	public void testDragDropFromDev() throws InterruptedException {
-		//This line is added in dev branch
+		//This line is also added in main
 		driver.get("http://www.cookbook.seleniumacademy.com/DragDropDemo.html");
 		
 		WebElement source = driver.findElement(By.id("draggable"));
