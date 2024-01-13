@@ -1,10 +1,19 @@
 1. Using jxl.jar implement DDT for your yahoomail or orangeHRM ( older version xls i.e. .xls)
+fsfsdfsdfsfsfs
 2. Using poi.jar implement DDT for your yahoomail or orangeHRM ( .xlsx - self study )
 3. Using simple Java program implement DDT using CSV file for your yahoomail or orangeHRM
 4. Using 3rd party library implement DDT using CSV file for your yahoomail or orangeHRM (opencsv.jar)
+fsdfsdfsdfsdf
+
 5. Using MySQL/SQL Server/MSAccess/Oracle DB implement DDT for your yahoomail or orangeHRM 
 
 Make sure your all dataprovides and data reading 
 methods are in a single Java file which your tests will use.
 
 These assignments to be completed by 14th Jan 24. 
+
+asdasda
+
+asdasdasd
+
+asdasda
